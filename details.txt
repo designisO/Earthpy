@@ -1,0 +1,10 @@
+
+Download Instructions for EarthPY.
+
+Install: Python
+
+Download: Earthpy from Main Page.
+Open: Command Line Interface (CLI) within the directory of the file downloaded.
+Type: python earth.py
+
+Travel Without Restrictions
